@@ -1,0 +1,46 @@
+
+*{
+margin: 0;
+padding: 0;
+}
+body{
+    background-color: #635985;
+}
+.nav{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background:wheat;
+    height: 70px;
+    font-family: 'Montserrat', sans-serif;
+    font-family: 'Varela Round', sans-serif;
+
+}
+.nav h1{
+
+}
+.nav ul{
+    list-style:none;
+   margin-right: 130px;
+}
+.nav ul li{
+float: left;
+margin-left: 50px;
+}
+.img img{
+    width: 400px;
+}
+.aside{
+    display: flex;
+    max-width: 100%;
+}
+.para {
+    width: 60%;
+    margin: 111px 103px;
+}
+.img{
+width: 40%;
+}
+.img img{
+    width: 50%;
+}
